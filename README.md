@@ -49,13 +49,17 @@ guia-postgresql-iniciantes/
 │   ├── 02-tipos-de-dados.md    
 │   ├── 03-criacao-de-dados.md
 │   ├── 04-alteracao-de-tabelas.md
-│   └── 05-insercao-de-dados.md
+│   ├── 05-insercao-de-dados.md
+│   ├── 06-remocao-de-dados.md
+│   └── 07-atualizca-de-dados.md
 └── sql/
      ├── 01_primeiros_passos.sql
      ├── 02_tipos_de_dados.sql
      ├── 03_criacao_de_tabelas.sql
      ├── 04_alteracao_de_tabelas.sql
-     └── 05_insercao_de_dados.sql
+     ├── 05_insercao_de_dados.sql
+     ├── 06_remocao_de_dados.sql 
+     └── 07_atualizacao_de_dados.      
 ```
 
 ## Autor
