@@ -46,10 +46,12 @@ guia-postgresql-iniciantes/
 ├── README.md
 ├── capitulos/
 │   ├── 01-introducao.md
-│   └── 02-tipos-de-dados.md
+│   ├── 02-tipos-de-dados.md    
+│   └── 03-criacao-de-dados.md
 └── sql/
-    ├── 01_primeiros_passos.sql
-    └── 02_tipos_de_dados.sql
+     ├── 01_primeiros_passos.sql
+     ├── 02_tipos_de_dados.sql
+     └── 03_criacao_de_tabelas.sql
 ```
 
 ## Autor
